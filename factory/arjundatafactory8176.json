@@ -1,0 +1,15 @@
+{
+	"name": "arjundatafactory8176",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74cf52ed-7825-4ec0-9a17-1d7922b9bc5a",
+		"tenantId": "5ee6f0d2-8ae5-498e-93d4-9c1d943a2c47"
+	}
+}
